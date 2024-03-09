@@ -13,12 +13,12 @@ Admin panel for managing users and data
 
 To set up the project, follow these steps:
 
-Install and configure a web server, such as Apache or Nginx
-Install MySQL and create a database for the project
-Import the SQL file from the sql directory to create the database schema and sample data
-Update the database credentials in the config.php file
-Place the project files in the web server's document root directory
-Access the project through a web browser
+1. Install and configure a web server, such as Apache or Nginx
+2. Install MySQL and create a database for the project
+3. Import the SQL file from the sql directory to create the database schema and sample data
+4. Update the database credentials in the config.php file
+5. Place the project files in the web server's document root directory
+6. Access the project through a web browser
 
 **Usage**
 
@@ -28,10 +28,13 @@ The project has two main user roles: admin and student.
 
 The admin panel is accessible by logging in with the admin credentials. From the admin panel, you can:
 
-Manage student data
-Manage course data
-Manage exam data
-Generate reports on student performance
+1. Manage student data
+
+2. Manage course data
+
+3. Manage exam data
+
+4. Generate reports on student performance
 
 **Student**
 
